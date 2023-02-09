@@ -1,0 +1,33 @@
+
+
+                        DICCIONADOS REGLAMENTO
+
+
+
+. OBJETIVO : 
+ El juego consiste en acertar la mayor cantidad de palabras posibles
+cuya definicion se mostrara por pantalla.
+
+
+. MODALIDAD DE JUEGO : 
+ Al iniciar el programa se imprime un menu en el que el jugador debera
+seleccionar una opcion de las explicitadas.
+ Si el jugador selecciono la opcion de 'jugar' se le iran mostrando 
+diferentes definiciones por pantalla y el mismo debe ingresar la palabra
+correspondiente a esa definicion,esta debe ser unica, escrita en minuscula
+y sin acentos. Si este se equivoca automaticamente el juego se termina
+y el mismo le pedira al jugador que ingrese su nombre y se le indicara 
+su puntuacion.
+ En el caso de seguir en partida el juego consta de 100 (cien) definiciones
+con sus correctas palabras asociadas. Si el jugador acerto todas ha ganado
+el juego y este le pedira que coloque su nombre y le dara su puntuacion.
+ Una vez que el jugador ha colocado su puntuacion se le imprimira nuevamente
+el menu donde el jugador debe seleccionar una de las opciones en el
+explicitadas. 
+ 
+
+
+
+
+ 
+
